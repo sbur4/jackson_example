@@ -1,0 +1,21 @@
+<Dto>
+    <car>
+        <brand>Tesla</brand>
+        <model>Y</model>
+        <year/>
+        <speed>250.0</speed>
+        <hybrid>false</hybrid>
+        <tank>0</tank>
+        <features/>
+    </car>
+    <engine>
+        <type>
+            <type>electric</type>
+            <type>eco</type>
+        </type>
+        <power>
+            <power>5</power>
+            <power>7</power>
+        </power>
+    </engine>
+</Dto>

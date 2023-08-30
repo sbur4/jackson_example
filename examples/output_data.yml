@@ -1,0 +1,14 @@
+---
+brand: "Tesla"
+model: "Y"
+year: null
+speed: 250.0
+hybrid: false
+tank: 0
+features: null
+type:
+- "electric"
+- "eco"
+power:
+- 5
+- 7
