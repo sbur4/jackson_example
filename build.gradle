@@ -18,6 +18,11 @@ repositories {
 //    mavenLocal()
 //    gradlePluginPortal()
 }
+
+wrapper {
+    gradleVersion = '8.0'
+}
+
 // Jackson Dataformats: Text
 //Jackson Annotations
 //Jackson Databind
